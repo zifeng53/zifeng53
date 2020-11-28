@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm LIEW ZI FENG</h1>
 <h3 align="center">A Student from TARC MALAYSIA</h3>
 
