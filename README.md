@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/liew zi feng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="liew zi feng" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/LIEW ZI FENG" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="liew zi feng" height="30" width="40" /></a>
 <a href="https://kaggle.com/liew zi feng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="liew zi feng" height="30" width="40" /></a>
 </p>
 
