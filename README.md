@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zifeng53" alt="zifeng53" /></a> </p>
 
-- 🔭 I’m currently working on [IOT - SMART FARMING SYSTEM](https://github.com/zifeng53/Smart-Farming-System)
+- 🔭 I’m currently working on [Building E-Commerce Website using Django, React & MySQL](https://github.com/zifeng53/ECOMWEBSITE)
 
 - 🌱 I’m currently learning **Data Science**
 
