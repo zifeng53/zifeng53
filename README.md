@@ -16,7 +16,29 @@ A student passionate about Data Science :bar_chart:. I like automating things, a
 <a href="https://linkedin.com/in/liew-zi-feng-4657361b2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="liew zi feng" height="30" width="40" /></a>
 <a href="https://kaggle.com/liewzifeng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="liew zi feng" height="30" width="40" /></a>
 </p>
-
+<br/>
+```python
+class RafnixG:
+    def __init__(self):
+        self.username = 'rafnixg'
+        self.name = 'Rafnix Guzmán'
+        self.web = 'https://rafnixg.dev'
+        self.twitter = '@rafnixg'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
+            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
+            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+        }
+        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+    def __str__(self):
+        return self.name
+if __name__ == '__main__':
+    me = RafnixG()
+```
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <img align="left" title="Hadoop" alt="Hadoop" width="35px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg"/>
