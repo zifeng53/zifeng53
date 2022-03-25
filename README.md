@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Building E-Commerce Website using Django, React & MySQL](https://github.com/zifeng53/ECOMWEBSITE)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently looking for an internship opportunity in **Data Analyst** & **Data Engineer**
 
 - 📫 How to reach me **zifeng3553@outlook.com**
 
