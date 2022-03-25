@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm LIEW ZI FENG</h1>
-<h3 align="center">Degree Data Science student from TAR UC MALAYSIA</h3>
+<h3 align="center">Bachelor Degree Data Science student from TAR UC Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zifeng53&label=Profile%20views&color=0e75b6&style=flat" alt="zifeng53" /> </p>
 
-A student passionate about Data Science :bar_chart:. I like automating things, analyzing data, exploring scalability problems and improving efficiency and performance. 
+A bachelor student passionate about Data Science :bar_chart:. I like automating things, analyzing data, exploring scalability problems and improving efficiency and performance. 
 
 - 🔭 I’m currently working on [Building E-Commerce Website using Django, React & MySQL](https://github.com/zifeng53/ECOMWEBSITE)
 
