@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zifeng53&label=Profile%20views&color=0e75b6&style=flat" alt="zifeng53" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zifeng53" alt="zifeng53" /></a> </p>
+A student passionate about Data Science :bar_chart:. I like automating things, analyzing data, exploring scalability problems and improving efficiency and performance. 
 
 - 🔭 I’m currently working on [Building E-Commerce Website using Django, React & MySQL](https://github.com/zifeng53/ECOMWEBSITE)
 
