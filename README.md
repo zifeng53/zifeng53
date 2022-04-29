@@ -5,7 +5,7 @@
 
 A bachelor student passionate about Data Science :bar_chart:. I like automating things, analyzing data, exploring scalability problems and improving efficiency and performance. 
 
-- 🔭 I’m currently working on [Building E-Commerce Website using Django, React & MySQL](https://github.com/zifeng53/ECOMWEBSITE)
+<!-- - 🔭 I’m currently working on [Building E-Commerce Website using Django, React & MySQL](https://github.com/zifeng53/ECOMWEBSITE) -->
 
 - 🌱 I’m currently looking for an internship opportunity in **Data Analyst** & **Data Engineer**
 
