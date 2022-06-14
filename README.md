@@ -21,9 +21,9 @@ class zifeng53:
         self.code = {
             'data_science': ['Python', 'Machine Learning', 'AI', 'NLP', 'R'],
             'web_development': ['HTML', 'CSS', 'JavaScript', 'PHP', 'Django'],
-            'database': ['Oracle', 'PHPMyAdmin', 'MySQL', 'MS SQL Server', 'Azure Database', 'HeidiSQL', 'Firebase', 'Apache HBase'],
-            'framework': ['TensorFlow', 'Pandas', 'Scikit-learn', 'Keras', 'Matplotlib', 'NLTK', 'Seaborn', 'SciPy', 'Hadoop', 'Apache Kafka'],
-            'tools': ['Tableau', 'SPSS', 'RapidMiner', 'Azure', 'Apache Spark', 'Jupyter', 'RStudio','VS Code', 'Excel'],
+            'database': ['Oracle', 'PHPMyAdmin', 'MySQL', 'MS SQL Server', 'Azure Database', 'HeidiSQL', 'Firebase'],
+            'framework': ['TensorFlow', 'Pandas', 'Scikit-learn', 'Keras', 'Matplotlib', 'NLTK', 'Seaborn'],
+            'tools': ['Tableau', 'SPSS', 'RapidMiner', 'Azure', 'Jupyter', 'RStudio','VS Code', 'Excel'],
             'others': ['Java', 'C++']
         }
     def __str__(self):
