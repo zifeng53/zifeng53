@@ -7,7 +7,7 @@ A bachelor student passionate about Data Science :bar_chart:. I like automating 
 
 <!-- - 🔭 I’m currently working on [Building E-Commerce Website using Django, React & MySQL](https://github.com/zifeng53/ECOMWEBSITE) -->
 
-- 🌱 I’m currently working as a **Machine Learning Engineer - Intern** at **Kuala Lumpur**
+- 🌱 I’m currently working as a **Data Scientist - Intern** at **Kuala Lumpur**
 
 - 📫 How to reach me **zifeng3553@outlook.com**
 <br/>
