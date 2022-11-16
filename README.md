@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LIEW ZI FENG</h1>
-<h3 align="center">Bachelor Degree Data Science student from TAR UC Malaysia</h3>
+<h3 align="center">Bachelor Degree Data Science student from TAR UC/ TAR UMT Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zifeng53&label=Profile%20views&color=0e75b6&style=flat" alt="zifeng53" /> </p>
 
