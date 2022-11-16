@@ -23,7 +23,7 @@ class zifeng53:
             'web_development': ['HTML', 'CSS', 'JavaScript', 'PHP', 'Django'],
             'database': ['Oracle', 'PHPMyAdmin', 'MySQL', 'MS SQL Server', 'Azure Database', 'HeidiSQL', 'Firebase'],
             'framework': ['TensorFlow', 'Pandas', 'Scikit-learn', 'Keras', 'Matplotlib', 'NLTK', 'Seaborn'],
-            'tools': ['Tableau', 'SPSS', 'RapidMiner', 'Azure', 'Jupyter', 'RStudio','VS Code', 'Excel'],
+            'tools': ['Power BI', 'Tableau', 'SPSS', 'RapidMiner', 'Azure', 'Jupyter', 'RStudio','VS Code', 'Excel'],
             'others': ['Java', 'C++']
         }
     def __str__(self):
