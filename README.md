@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm LIEW ZI FENG</h1>
-<h3 align="center">Bachelor Degree Data Science student from TAR UC/ TAR UMT Malaysia</h3>
+<h3 align="center">AI Developer & Bachelor Degree Data Science student from TAR UC/ TAR UMT Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zifeng53&label=Profile%20views&color=0e75b6&style=flat" alt="zifeng53" /> </p>
 
-A bachelor student passionate about Data Science :bar_chart:. I like automating things, analyzing data, exploring scalability problems and improving efficiency and performance. 
+A guy passionate about Data Science :bar_chart:. I like automating things, analyzing data, exploring scalability problems and improving efficiency and performance. 
 
 <!-- - 🔭 I’m currently working on [Building E-Commerce Website using Django, React & MySQL](https://github.com/zifeng53/ECOMWEBSITE) -->
 
-- 🌱 I’m currently working as a **Data Scientist - Intern** in **Kuala Lumpur**
+- 🌱 I’m currently working as an **AI Developer** in **Johor Bahru**, **Malaysia**.
 
 - 📫 How to reach me **zifeng3553@outlook.com**
 <br/>
@@ -19,9 +19,9 @@ class zifeng53:
         self.name = 'Liew Zi Feng'
         self.linkedin = 'https://www.linkedin.com/in/liew-zi-feng-4657361b2/'
         self.code = {
-            'data_science': ['Python', 'Machine Learning', 'AI', 'NLP', 'R'],
-            'web_development': ['HTML', 'CSS', 'JavaScript', 'PHP', 'Django'],
-            'database': ['Oracle', 'PHPMyAdmin', 'MySQL', 'MS SQL Server', 'Azure Database', 'HeidiSQL', 'Firebase'],
+            'data_science': ['Python', 'Machine Learning', 'AI', 'NLP', 'Computer Vision'],
+            'web_development': ['FastAPI', 'HTML', 'CSS', 'JavaScript', 'PHP', 'Django'],
+            'database': ['Oracle', 'PHPMyAdmin', 'MySQL', 'MS SQL Server', 'Azure Database', 'Firebase'],
             'framework': ['TensorFlow', 'Pandas', 'Scikit-learn', 'Keras', 'Matplotlib', 'NLTK', 'Seaborn'],
             'tools': ['Power BI', 'Tableau', 'SPSS', 'RapidMiner', 'Azure', 'Jupyter', 'RStudio','VS Code', 'Excel'],
             'others': ['Java', 'C++']
