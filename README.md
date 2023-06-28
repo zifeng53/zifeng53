@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LIEW ZI FENG</h1>
-<h3 align="center">AI Developer & Bachelor Degree Data Science student from TAR UC/ TAR UMT Malaysia</h3>
+<h3 align="center">AI Developer | Computer Vision Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zifeng53&label=Profile%20views&color=0e75b6&style=flat" alt="zifeng53" /> </p>
 
@@ -7,7 +7,7 @@ A guy passionate about Data Science :bar_chart:. I like automating things, analy
 
 <!-- - 🔭 I’m currently working on [Building E-Commerce Website using Django, React & MySQL](https://github.com/zifeng53/ECOMWEBSITE) -->
 
-- 🌱 I’m currently working as an **AI Developer** in **Johor Bahru**, **Malaysia**.
+- 🌱 I’m currently working as an **AI Developer | Computer Vision Engineer** in **Johor Bahru**, **Malaysia**.
 
 - 📫 How to reach me **zifeng3553@outlook.com**
 <br/>
