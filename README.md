@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zifeng53&label=Profile%20views&color=0e75b6&style=flat" alt="zifeng53" /> </p>
 
-A guy passionate about Data Science :bar_chart:. I like automating things, analyzing data, exploring scalability problems and improving efficiency and performance. 
+A guy passionate about AI :bar_chart:. I like automating things, analyzing data, exploring scalability problems and improving efficiency and performance. 
 
 <!-- - 🔭 I’m currently working on [Building E-Commerce Website using Django, React & MySQL](https://github.com/zifeng53/ECOMWEBSITE) -->
 
