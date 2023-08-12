@@ -19,12 +19,13 @@ class zifeng53:
         self.name = 'Liew Zi Feng'
         self.linkedin = 'https://www.linkedin.com/in/liew-zi-feng-4657361b2/'
         self.code = {
-            'data_science': ['Python', 'Machine Learning', 'AI', 'NLP', 'Computer Vision'],
+            'artificial_intelligence': ['Python', 'Deep Learning', 'Machine Learning', 'NLP', 'Computer Vision'],
             'web_development': ['FastAPI', 'HTML', 'CSS', 'JavaScript', 'PHP', 'Django'],
-            'database': ['Oracle', 'PHPMyAdmin', 'MySQL', 'MS SQL Server', 'Azure Database', 'Firebase'],
-            'framework': ['TensorFlow', 'Pandas', 'Scikit-learn', 'Keras', 'Matplotlib', 'NLTK', 'Seaborn'],
+            'database': ['Oracle', 'MySQL', 'MS SQL Server', 'MongoDB'],
+            'framework': ['PyTorch', 'TensorFlow', 'Keras', 'Scikit-learn', 'Pandas', 'Matplotlib', 'NLTK', 'Seaborn'],
+            'containerization': ['Docker', 'Red Hat OpenShift'],
             'tools': ['Power BI', 'Tableau', 'SPSS', 'RapidMiner', 'Azure', 'Jupyter', 'RStudio','VS Code', 'Excel'],
-            'others': ['Java', 'C++']
+            'others': ['C#','Java', 'C++']
         }
     def __str__(self):
         return self.name
